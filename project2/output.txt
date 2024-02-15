@@ -1,0 +1,1917 @@
+Running Decision Tree Classifier
+*************************************************
+
+c300->d5000
+---------------------------------------------
+Tuning default accuracy: 0.7224
+Tuning default f1 score: 0.7209489344591878
+Tuning best accuracy: 0.7258
+Tuning best F1 score: 0.728191911181602
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: best
+
+Test accuracy: 0.7588
+Test F1 score: 0.755771567436209
+---------------------------------------------
+
+c300->d1000
+---------------------------------------------
+Tuning default accuracy: 0.6145
+Tuning default f1 score: 0.613920881321983
+Tuning best accuracy: 0.6345
+Tuning best F1 score: 0.6206538661131291
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: log_loss
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 2
+min_samples_split: 5
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: best
+
+Test accuracy: 0.668
+Test F1 score: 0.6619144602851323
+---------------------------------------------
+
+c300->d100
+---------------------------------------------
+Tuning default accuracy: 0.6
+Tuning default f1 score: 0.6330275229357798
+Tuning best accuracy: 0.605
+Tuning best F1 score: 0.6359447004608294
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: random
+
+Test accuracy: 0.655
+Test F1 score: 0.6877828054298643
+---------------------------------------------
+
+c500->d1000
+---------------------------------------------
+Tuning default accuracy: 0.661
+Tuning default f1 score: 0.661
+Tuning best accuracy: 0.692
+Tuning best F1 score: 0.691382765531062
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: random
+
+Test accuracy: 0.685
+Test F1 score: 0.6792260692464359
+---------------------------------------------
+
+c500->d5000
+---------------------------------------------
+Tuning default accuracy: 0.7285
+Tuning default f1 score: 0.7271630991860114
+Tuning best accuracy: 0.7481
+Tuning best F1 score: 0.7530150014707324
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: best
+
+Test accuracy: 0.7828
+Test F1 score: 0.78482266693085
+---------------------------------------------
+
+c500->d100
+---------------------------------------------
+Tuning default accuracy: 0.6
+Tuning default f1 score: 0.6116504854368932
+Tuning best accuracy: 0.67
+Tuning best F1 score: 0.6597938144329897
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: best
+
+Test accuracy: 0.65
+Test F1 score: 0.6666666666666666
+---------------------------------------------
+
+c1800->d100
+---------------------------------------------
+Tuning default accuracy: 0.94
+Tuning default f1 score: 0.9423076923076924
+Tuning best accuracy: 0.98
+Tuning best F1 score: 0.9801980198019802
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: best
+
+Test accuracy: 0.95
+Test F1 score: 0.9509803921568627
+---------------------------------------------
+
+c1800->d1000
+---------------------------------------------
+Tuning default accuracy: 0.962
+Tuning default f1 score: 0.9623389494549057
+Tuning best accuracy: 0.9695
+Tuning best F1 score: 0.9694235588972432
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: log_loss
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: best
+
+Test accuracy: 0.973
+Test F1 score: 0.9733201581027668
+---------------------------------------------
+
+c1800->d5000
+---------------------------------------------
+Tuning default accuracy: 0.9784
+Tuning default f1 score: 0.9786350148367953
+Tuning best accuracy: 0.9844
+Tuning best F1 score: 0.9844342446617441
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: log_loss
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: random
+
+Test accuracy: 0.9837
+Test F1 score: 0.9838213399503721
+---------------------------------------------
+
+c1000->d100
+---------------------------------------------
+Tuning default accuracy: 0.73
+Tuning default f1 score: 0.7352941176470588
+Tuning best accuracy: 0.8
+Tuning best F1 score: 0.8000000000000002
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: log_loss
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 2
+min_samples_split: 5
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: random
+
+Test accuracy: 0.7
+Test F1 score: 0.7087378640776699
+---------------------------------------------
+
+c1000->d1000
+---------------------------------------------
+Tuning default accuracy: 0.7685
+Tuning default f1 score: 0.7735941320293399
+Tuning best accuracy: 0.809
+Tuning best F1 score: 0.8074596774193549
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: best
+
+Test accuracy: 0.786
+Test F1 score: 0.7930367504835589
+---------------------------------------------
+
+c1000->d5000
+---------------------------------------------
+Tuning default accuracy: 0.825
+Tuning default f1 score: 0.8278914240755311
+Tuning best accuracy: 0.8381
+Tuning best F1 score: 0.8367120524457892
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: log_loss
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 2
+min_samples_split: 5
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: best
+
+Test accuracy: 0.8479
+Test F1 score: 0.8480974732847298
+---------------------------------------------
+
+c1500->d1000
+---------------------------------------------
+Tuning default accuracy: 0.893
+Tuning default f1 score: 0.8959143968871596
+Tuning best accuracy: 0.9135
+Tuning best F1 score: 0.91431401684002
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: best
+
+Test accuracy: 0.9085
+Test F1 score: 0.9116368903911153
+---------------------------------------------
+
+c1500->d5000
+---------------------------------------------
+Tuning default accuracy: 0.9348
+Tuning default f1 score: 0.9359276729559748
+Tuning best accuracy: 0.9475
+Tuning best F1 score: 0.9475890985324947
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: log_loss
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 2
+min_samples_split: 5
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: best
+
+Test accuracy: 0.9565
+Test F1 score: 0.9565824932628008
+---------------------------------------------
+
+c1500->d100
+---------------------------------------------
+Tuning default accuracy: 0.82
+Tuning default f1 score: 0.8285714285714286
+Tuning best accuracy: 0.875
+Tuning best F1 score: 0.8743718592964824
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: best
+
+Test accuracy: 0.885
+Test F1 score: 0.8878048780487805
+---------------------------------------------
+
+Running Bagging Classifier
+*************************************************
+
+c300->d5000
+---------------------------------------------
+Tuning default accuracy: 0.8226
+Tuning default f1 score: 0.8168868703550785
+Tuning best accuracy: 0.8775
+Tuning best F1 score: 0.8813099505861833
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 30
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9081
+Test F1 score: 0.9109582404805736
+---------------------------------------------
+
+c300->d1000
+---------------------------------------------
+Tuning default accuracy: 0.748
+Tuning default f1 score: 0.7278617710583154
+Tuning best accuracy: 0.822
+Tuning best F1 score: 0.8200202224469162
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 30
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.8405
+Test F1 score: 0.8378240976105744
+---------------------------------------------
+
+c300->d100
+---------------------------------------------
+Tuning default accuracy: 0.59
+Tuning default f1 score: 0.5494505494505494
+Tuning best accuracy: 0.63
+Tuning best F1 score: 0.6336633663366336
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 15
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.675
+Test F1 score: 0.6733668341708543
+---------------------------------------------
+
+c500->d1000
+---------------------------------------------
+Tuning default accuracy: 0.776
+Tuning default f1 score: 0.7639620653319282
+Tuning best accuracy: 0.848
+Tuning best F1 score: 0.8467741935483871
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 30
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.8725
+Test F1 score: 0.8717948717948719
+---------------------------------------------
+
+c500->d5000
+---------------------------------------------
+Tuning default accuracy: 0.8392
+Tuning default f1 score: 0.8323253388946819
+Tuning best accuracy: 0.8894
+Tuning best F1 score: 0.8878523626039344
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 30
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9216
+Test F1 score: 0.9216939672393129
+---------------------------------------------
+
+c500->d100
+---------------------------------------------
+Tuning default accuracy: 0.695
+Tuning default f1 score: 0.6666666666666666
+Tuning best accuracy: 0.765
+Tuning best F1 score: 0.7486631016042781
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 30
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.82
+Test F1 score: 0.82
+---------------------------------------------
+
+c1800->d100
+---------------------------------------------
+Tuning default accuracy: 0.98
+Tuning default f1 score: 0.98
+Tuning best accuracy: 0.995
+Tuning best F1 score: 0.9950248756218906
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 20
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.97
+Test F1 score: 0.9696969696969697
+---------------------------------------------
+
+c1800->d1000
+---------------------------------------------
+Tuning default accuracy: 0.9875
+Tuning default f1 score: 0.9873673572511369
+Tuning best accuracy: 0.9895
+Tuning best F1 score: 0.9894099848714069
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 20
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.995
+Test F1 score: 0.9949899799599199
+---------------------------------------------
+
+c1800->d5000
+---------------------------------------------
+Tuning default accuracy: 0.9946
+Tuning default f1 score: 0.9945870088211708
+Tuning best accuracy: 0.9961
+Tuning best F1 score: 0.9960941412118177
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 30
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.997
+Test F1 score: 0.9969963956748099
+---------------------------------------------
+
+c1000->d100
+---------------------------------------------
+Tuning default accuracy: 0.82
+Tuning default f1 score: 0.797752808988764
+Tuning best accuracy: 0.835
+Tuning best F1 score: 0.8253968253968254
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 15
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.875
+Test F1 score: 0.8756218905472637
+---------------------------------------------
+
+c1000->d1000
+---------------------------------------------
+Tuning default accuracy: 0.894
+Tuning default f1 score: 0.890495867768595
+Tuning best accuracy: 0.92
+Tuning best F1 score: 0.9198396793587175
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 30
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.932
+Test F1 score: 0.9327398615232443
+---------------------------------------------
+
+c1000->d5000
+---------------------------------------------
+Tuning default accuracy: 0.9278
+Tuning default f1 score: 0.9265065146579805
+Tuning best accuracy: 0.9481
+Tuning best F1 score: 0.9479490522515295
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 30
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9555
+Test F1 score: 0.9553705746665331
+---------------------------------------------
+
+c1500->d1000
+---------------------------------------------
+Tuning default accuracy: 0.9655
+Tuning default f1 score: 0.9652392947103274
+Tuning best accuracy: 0.978
+Tuning best F1 score: 0.9778894472361808
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 20
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9815
+Test F1 score: 0.9813789632611978
+---------------------------------------------
+
+c1500->d5000
+---------------------------------------------
+Tuning default accuracy: 0.9826
+Tuning default f1 score: 0.9824949698189136
+Tuning best accuracy: 0.9873
+Tuning best F1 score: 0.9872707226621229
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 30
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9887
+Test F1 score: 0.9886807572873886
+---------------------------------------------
+
+c1500->d100
+---------------------------------------------
+Tuning default accuracy: 0.97
+Tuning default f1 score: 0.9705882352941176
+Tuning best accuracy: 0.97
+Tuning best F1 score: 0.9705882352941176
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 10
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.965
+Test F1 score: 0.9644670050761421
+---------------------------------------------
+
+Running Random Forest Classifier
+*************************************************
+
+c300->d5000
+---------------------------------------------
+c300->d5000
+Tuning default accuracy: 0.8711
+Tuning default f1 score: 0.8715751718641027
+Tuning best accuracy: 0.8999
+Tuning best F1 score: 0.9017953497498282
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: sqrt
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 5
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9087
+Test F1 score: 0.9105866222701009
+---------------------------------------------
+
+c300->d1000
+---------------------------------------------
+c300->d1000
+Tuning default accuracy: 0.8465
+Tuning default f1 score: 0.8492881688757977
+Tuning best accuracy: 0.8625
+Tuning best F1 score: 0.8661800486618004
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: sqrt
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 10
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.8765
+Test F1 score: 0.8780246913580246
+---------------------------------------------
+
+c300->d100
+---------------------------------------------
+c300->d100
+Tuning default accuracy: 0.71
+Tuning default f1 score: 0.7010309278350516
+Tuning best accuracy: 0.75
+Tuning best F1 score: 0.7572815533980584
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: sqrt
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 5
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.84
+Test F1 score: 0.8446601941747572
+---------------------------------------------
+
+c500->d1000
+---------------------------------------------
+c500->d1000
+Tuning default accuracy: 0.9025
+Tuning default f1 score: 0.9038935436175456
+Tuning best accuracy: 0.931
+Tuning best F1 score: 0.9320866141732284
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: log2
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 10
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.947
+Test F1 score: 0.947420634920635
+---------------------------------------------
+
+c500->d5000
+---------------------------------------------
+c500->d5000
+Tuning default accuracy: 0.9431
+Tuning default f1 score: 0.9431170648805358
+Tuning best accuracy: 0.9545
+Tuning best F1 score: 0.9549816958543583
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: log2
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 10
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9559
+Test F1 score: 0.9563236604932158
+---------------------------------------------
+
+c500->d100
+---------------------------------------------
+c500->d100
+Tuning default accuracy: 0.835
+Tuning default f1 score: 0.83248730964467
+Tuning best accuracy: 0.865
+Tuning best F1 score: 0.8682926829268293
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: sqrt
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 5
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.87
+Test F1 score: 0.87
+---------------------------------------------
+
+c1800->d100
+---------------------------------------------
+c1800->d100
+Tuning default accuracy: 1.0
+Tuning default f1 score: 1.0
+Tuning best accuracy: 1.0
+Tuning best F1 score: 1.0
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: gini
+max_depth: None
+max_features: sqrt
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.995
+Test F1 score: 0.9949748743718593
+---------------------------------------------
+
+c1800->d1000
+---------------------------------------------
+c1800->d1000
+Tuning default accuracy: 1.0
+Tuning default f1 score: 1.0
+Tuning best accuracy: 1.0
+Tuning best F1 score: 1.0
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: gini
+max_depth: None
+max_features: sqrt
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 1.0
+Test F1 score: 1.0
+---------------------------------------------
+
+c1800->d5000
+---------------------------------------------
+c1800->d5000
+Tuning default accuracy: 0.9998
+Tuning default f1 score: 0.9997999599919984
+Tuning best accuracy: 1.0
+Tuning best F1 score: 1.0
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: sqrt
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 1.0
+Test F1 score: 1.0
+---------------------------------------------
+
+c1000->d100
+---------------------------------------------
+c1000->d100
+Tuning default accuracy: 0.95
+Tuning default f1 score: 0.9494949494949495
+Tuning best accuracy: 0.98
+Tuning best F1 score: 0.98
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: log2
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 5
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.965
+Test F1 score: 0.964824120603015
+---------------------------------------------
+
+c1000->d1000
+---------------------------------------------
+c1000->d1000
+Tuning default accuracy: 0.9865
+Tuning default f1 score: 0.9865336658354115
+Tuning best accuracy: 0.9965
+Tuning best F1 score: 0.9965052421367948
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: log2
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 10
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.994
+Test F1 score: 0.994005994005994
+---------------------------------------------
+
+c1000->d5000
+---------------------------------------------
+c1000->d5000
+Tuning default accuracy: 0.9927
+Tuning default f1 score: 0.992705106425502
+Tuning best accuracy: 0.9975
+Tuning best F1 score: 0.9975017487758568
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: log2
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 5
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9965
+Test F1 score: 0.9965038457696533
+---------------------------------------------
+
+c1500->d1000
+---------------------------------------------
+c1500->d1000
+Tuning default accuracy: 0.9995
+Tuning default f1 score: 0.9995002498750626
+Tuning best accuracy: 1.0
+Tuning best F1 score: 1.0
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: sqrt
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9995
+Test F1 score: 0.9994997498749374
+---------------------------------------------
+
+c1500->d5000
+---------------------------------------------
+c1500->d5000
+Tuning default accuracy: 0.9996
+Tuning default f1 score: 0.9995999199839969
+Tuning best accuracy: 1.0
+Tuning best F1 score: 1.0
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: log2
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 10
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9998
+Test F1 score: 0.9997999599919984
+---------------------------------------------
+
+c1500->d100
+---------------------------------------------
+c1500->d100
+Tuning default accuracy: 1.0
+Tuning default f1 score: 1.0
+Tuning best accuracy: 1.0
+Tuning best F1 score: 1.0
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: gini
+max_depth: None
+max_features: sqrt
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 1.0
+Test F1 score: 1.0
+---------------------------------------------
+
+Running Gradient Boost Classifier
+*************************************************
+
+c300->d5000
+---------------------------------------------
+Tuning default accuracy: 0.9793
+Tuning default f1 score: 0.9796919454527617
+Tuning best accuracy: 0.9927
+Tuning best F1 score: 0.9927529038022436
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: friedman_mse
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 200
+n_iter_no_change: None
+random_state: 0
+subsample: 1.0
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.994
+Test F1 score: 0.9940357852882703
+---------------------------------------------
+
+c300->d1000
+---------------------------------------------
+Tuning default accuracy: 0.9525
+Tuning default f1 score: 0.954039671020803
+Tuning best accuracy: 0.9745
+Tuning best F1 score: 0.975085490962384
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: friedman_mse
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 200
+n_iter_no_change: None
+random_state: 0
+subsample: 1.0
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.991
+Test F1 score: 0.9910802775024777
+---------------------------------------------
+
+c300->d100
+---------------------------------------------
+Tuning default accuracy: 0.72
+Tuning default f1 score: 0.7142857142857142
+Tuning best accuracy: 0.745
+Tuning best F1 score: 0.7411167512690355
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: friedman_mse
+init: None
+learning_rate: 0.1
+loss: exponential
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 200
+n_iter_no_change: None
+random_state: 0
+subsample: 1.0
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.835
+Test F1 score: 0.8374384236453202
+---------------------------------------------
+
+c500->d1000
+---------------------------------------------
+Tuning default accuracy: 0.968
+Tuning default f1 score: 0.9684729064039409
+Tuning best accuracy: 0.9835
+Tuning best F1 score: 0.9836552748885585
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: friedman_mse
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 200
+n_iter_no_change: None
+random_state: 0
+subsample: 1.0
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.996
+Test F1 score: 0.9960159362549801
+---------------------------------------------
+
+c500->d5000
+---------------------------------------------
+Tuning default accuracy: 0.9811
+Tuning default f1 score: 0.9813811447148064
+Tuning best accuracy: 0.9962
+Tuning best F1 score: 0.9962136309286568
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: friedman_mse
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 200
+n_iter_no_change: None
+random_state: 0
+subsample: 1.0
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9969
+Test F1 score: 0.9969089640043873
+---------------------------------------------
+
+c500->d100
+---------------------------------------------
+Tuning default accuracy: 0.79
+Tuning default f1 score: 0.79
+Tuning best accuracy: 0.865
+Tuning best F1 score: 0.864321608040201
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: squared_error
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 200
+n_iter_no_change: None
+random_state: 0
+subsample: 0.5
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9
+Test F1 score: 0.9019607843137256
+---------------------------------------------
+
+c1800->d100
+---------------------------------------------
+Tuning default accuracy: 1.0
+Tuning default f1 score: 1.0
+Tuning best accuracy: 1.0
+Tuning best F1 score: 1.0
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: friedman_mse
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_iter_no_change: None
+random_state: 0
+subsample: 1.0
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.99
+Test F1 score: 0.99
+---------------------------------------------
+
+c1800->d1000
+---------------------------------------------
+Tuning default accuracy: 1.0
+Tuning default f1 score: 1.0
+Tuning best accuracy: 1.0
+Tuning best F1 score: 1.0
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: friedman_mse
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_iter_no_change: None
+random_state: 0
+subsample: 1.0
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 1.0
+Test F1 score: 1.0
+---------------------------------------------
+
+c1800->d5000
+---------------------------------------------
+Tuning default accuracy: 1.0
+Tuning default f1 score: 1.0
+Tuning best accuracy: 1.0
+Tuning best F1 score: 1.0
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: friedman_mse
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_iter_no_change: None
+random_state: 0
+subsample: 1.0
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9999
+Test F1 score: 0.9999000099990001
+---------------------------------------------
+
+c1000->d100
+---------------------------------------------
+Tuning default accuracy: 0.91
+Tuning default f1 score: 0.9108910891089109
+Tuning best accuracy: 0.975
+Tuning best F1 score: 0.9751243781094527
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: squared_error
+init: None
+learning_rate: 0.1
+loss: exponential
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 200
+n_iter_no_change: None
+random_state: 0
+subsample: 0.5
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.985
+Test F1 score: 0.9850746268656716
+---------------------------------------------
+
+c1000->d1000
+---------------------------------------------
+Tuning default accuracy: 0.9865
+Tuning default f1 score: 0.9865738438587768
+Tuning best accuracy: 0.997
+Tuning best F1 score: 0.997002997002997
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: squared_error
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 200
+n_iter_no_change: None
+random_state: 0
+subsample: 0.5
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9975
+Test F1 score: 0.9975062344139651
+---------------------------------------------
+
+c1000->d5000
+---------------------------------------------
+Tuning default accuracy: 0.9976
+Tuning default f1 score: 0.9976028765481422
+Tuning best accuracy: 0.9996
+Tuning best F1 score: 0.9996001599360256
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: friedman_mse
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 200
+n_iter_no_change: None
+random_state: 0
+subsample: 1.0
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9996
+Test F1 score: 0.9996001599360256
+---------------------------------------------
+
+c1500->d1000
+---------------------------------------------
+Tuning default accuracy: 0.9985
+Tuning default f1 score: 0.9985022466300548
+Tuning best accuracy: 1.0
+Tuning best F1 score: 1.0
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: friedman_mse
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 200
+n_iter_no_change: None
+random_state: 0
+subsample: 1.0
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 1.0
+Test F1 score: 1.0
+---------------------------------------------
+
+c1500->d5000
+---------------------------------------------
+Tuning default accuracy: 0.9997
+Tuning default f1 score: 0.9997000299970004
+Tuning best accuracy: 1.0
+Tuning best F1 score: 1.0
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: friedman_mse
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 200
+n_iter_no_change: None
+random_state: 0
+subsample: 1.0
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 1.0
+Test F1 score: 1.0
+---------------------------------------------
+
+c1500->d100
+---------------------------------------------
+Tuning default accuracy: 0.975
+Tuning default f1 score: 0.975609756097561
+Tuning best accuracy: 0.995
+Tuning best F1 score: 0.9950248756218906
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: squared_error
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 200
+n_iter_no_change: None
+random_state: 0
+subsample: 0.5
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 1.0
+Test F1 score: 1.0
+---------------------------------------------
+

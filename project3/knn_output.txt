@@ -1,0 +1,187 @@
+Running K Nearest Neighbors Experiments on MNIST Dataset
+*************************************************
+
+K-Nearest Neighbors Parameters:
+algorithm: ball_tree
+leaf_size: 30
+metric: minkowski
+metric_params: None
+n_jobs: -1
+n_neighbors: 3
+p: 2
+weights: uniform
+
+Accuracy: 0.9705
+Error rate: 0.0295
+------------------------------------------------------------------
+
+K-Nearest Neighbors Parameters:
+algorithm: ball_tree
+leaf_size: 30
+metric: minkowski
+metric_params: None
+n_jobs: -1
+n_neighbors: 5
+p: 2
+weights: uniform
+
+Accuracy: 0.9688
+Error rate: 0.0312
+------------------------------------------------------------------
+
+K-Nearest Neighbors Parameters:
+algorithm: kd_tree
+leaf_size: 30
+metric: minkowski
+metric_params: None
+n_jobs: -1
+n_neighbors: 7
+p: 2
+weights: uniform
+
+Accuracy: 0.9694
+Error rate: 0.0306
+------------------------------------------------------------------
+
+K-Nearest Neighbors Parameters:
+algorithm: kd_tree
+leaf_size: 30
+metric: minkowski
+metric_params: None
+n_jobs: -1
+n_neighbors: 9
+p: 2
+weights: uniform
+
+Accuracy: 0.9659
+Error rate: 0.0341
+------------------------------------------------------------------
+
+K-Nearest Neighbors Parameters:
+algorithm: ball_tree
+leaf_size: 30
+metric: minkowski
+metric_params: None
+n_jobs: -1
+n_neighbors: 3
+p: 2
+weights: distance
+
+Accuracy: 0.9717
+Error rate: 0.0283
+------------------------------------------------------------------
+
+K-Nearest Neighbors Parameters:
+algorithm: ball_tree
+leaf_size: 30
+metric: minkowski
+metric_params: None
+n_jobs: -1
+n_neighbors: 5
+p: 2
+weights: distance
+
+Accuracy: 0.9691
+Error rate: 0.0309
+------------------------------------------------------------------
+
+K-Nearest Neighbors Parameters:
+algorithm: kd_tree
+leaf_size: 30
+metric: minkowski
+metric_params: None
+n_jobs: -1
+n_neighbors: 7
+p: 2
+weights: distance
+
+Accuracy: 0.97
+Error rate: 0.03
+------------------------------------------------------------------
+
+K-Nearest Neighbors Parameters:
+algorithm: kd_tree
+leaf_size: 30
+metric: minkowski
+metric_params: None
+n_jobs: -1
+n_neighbors: 9
+p: 2
+weights: distance
+
+Accuracy: 0.9673
+Error rate: 0.0327
+------------------------------------------------------------------
+
+K-Nearest Neighbors Parameters:
+algorithm: ball_tree
+leaf_size: 30
+metric: minkowski
+metric_params: None
+n_jobs: -1
+n_neighbors: 3
+p: 3
+weights: distance
+
+Accuracy: 0.9728
+Error rate: 0.0272
+------------------------------------------------------------------
+
+K-Nearest Neighbors Parameters:
+algorithm: ball_tree
+leaf_size: 30
+metric: minkowski
+metric_params: None
+n_jobs: -1
+n_neighbors: 5
+p: 3
+weights: distance
+
+Accuracy: 0.9735
+Error rate: 0.0265
+------------------------------------------------------------------
+
+K-Nearest Neighbors Parameters:
+algorithm: kd_tree
+leaf_size: 30
+metric: minkowski
+metric_params: None
+n_jobs: -1
+n_neighbors: 5
+p: 4
+weights: distance
+
+Accuracy: 0.9753
+Error rate: 0.0247
+------------------------------------------------------------------
+
+K-Nearest Neighbors Parameters:
+algorithm: kd_tree
+leaf_size: 30
+metric: minkowski
+metric_params: None
+n_jobs: -1
+n_neighbors: 7
+p: 4
+weights: distance
+
+Accuracy: 0.9741
+Error rate: 0.0259
+------------------------------------------------------------------
+
+K-Nearest Neighbors Parameters:
+algorithm: kd_tree
+leaf_size: 30
+metric: minkowski
+metric_params: None
+n_jobs: -1
+n_neighbors: 9
+p: 4
+weights: distance
+
+Accuracy: 0.9724
+Error rate: 0.0276
+------------------------------------------------------------------
+
+*************************************************
+

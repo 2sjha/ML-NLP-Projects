@@ -1,0 +1,440 @@
+Learning ./dataset\accidents.ts.data dataset using CLT Random Forest
+
+Computing log-likelihood for Validation dataset ./dataset\accidents.valid.data with CLT Random Forest k=20, r=0.05
+-32.91422433457524
+
+Computing log-likelihood for Validation dataset ./dataset\accidents.valid.data with CLT Random Forest k=20, r=0.1
+-32.930910628499824
+
+Computing log-likelihood for Validation dataset ./dataset\accidents.valid.data with CLT Random Forest k=20, r=0.2
+-33.1374791739538
+
+Computing log-likelihood for Validation dataset ./dataset\accidents.valid.data with CLT Random Forest k=20, r=0.3
+-33.301540931421854
+
+Computing log-likelihood for Validation dataset ./dataset\accidents.valid.data with CLT Random Forest k=50, r=0.05
+-32.92865106586752
+
+Computing log-likelihood for Validation dataset ./dataset\accidents.valid.data with CLT Random Forest k=50, r=0.1
+-32.970893667549696
+
+Computing log-likelihood for Validation dataset ./dataset\accidents.valid.data with CLT Random Forest k=50, r=0.2
+-33.06362849118884
+
+Computing log-likelihood for Validation dataset ./dataset\accidents.valid.data with CLT Random Forest k=50, r=0.3
+-33.271894676990655
+
+Computing log-likelihood for Validation dataset ./dataset\accidents.valid.data with CLT Random Forest k=100, r=0.05
+-32.927532138309616
+
+Computing log-likelihood for Validation dataset ./dataset\accidents.valid.data with CLT Random Forest k=100, r=0.1
+-32.95886111500172
+
+Computing log-likelihood for Validation dataset ./dataset\accidents.valid.data with CLT Random Forest k=100, r=0.2
+-33.11281978266192
+
+Computing log-likelihood for Validation dataset ./dataset\accidents.valid.data with CLT Random Forest k=100, r=0.3
+-33.32234202368778
+
+Best log-likelihood across Validation datasets is -32.91422433457524
+
+Computing log-likelihood for Test dataset ./dataset\accidents.test.data with Random Forest k=20, r=0.05
+-33.21375334298787
+---------------------------------------------------
+
+Learning ./dataset\baudio.ts.data dataset using CLT Random Forest
+
+Computing log-likelihood for Validation dataset ./dataset\baudio.valid.data with CLT Random Forest k=20, r=0.05
+-44.13066783785535
+
+Computing log-likelihood for Validation dataset ./dataset\baudio.valid.data with CLT Random Forest k=20, r=0.1
+-44.13950898254724
+
+Computing log-likelihood for Validation dataset ./dataset\baudio.valid.data with CLT Random Forest k=20, r=0.2
+-44.16079107948434
+
+Computing log-likelihood for Validation dataset ./dataset\baudio.valid.data with CLT Random Forest k=20, r=0.3
+-44.19255900044303
+
+Computing log-likelihood for Validation dataset ./dataset\baudio.valid.data with CLT Random Forest k=50, r=0.05
+-44.12312076433754
+
+Computing log-likelihood for Validation dataset ./dataset\baudio.valid.data with CLT Random Forest k=50, r=0.1
+-44.140359025864306
+
+Computing log-likelihood for Validation dataset ./dataset\baudio.valid.data with CLT Random Forest k=50, r=0.2
+-44.16273397562501
+
+Computing log-likelihood for Validation dataset ./dataset\baudio.valid.data with CLT Random Forest k=50, r=0.3
+-44.18012993474526
+
+Computing log-likelihood for Validation dataset ./dataset\baudio.valid.data with CLT Random Forest k=100, r=0.05
+-44.13302051851985
+
+Computing log-likelihood for Validation dataset ./dataset\baudio.valid.data with CLT Random Forest k=100, r=0.1
+-44.13809537621244
+
+Computing log-likelihood for Validation dataset ./dataset\baudio.valid.data with CLT Random Forest k=100, r=0.2
+-44.15598523770833
+
+Computing log-likelihood for Validation dataset ./dataset\baudio.valid.data with CLT Random Forest k=100, r=0.3
+-44.18807460711738
+
+Best log-likelihood across Validation datasets is -44.12312076433754
+
+Computing log-likelihood for Test dataset ./dataset\baudio.test.data with Random Forest k=50, r=0.05
+-44.41844710852592
+---------------------------------------------------
+
+Learning ./dataset\bnetflix.ts.data dataset using CLT Random Forest
+
+Computing log-likelihood for Validation dataset ./dataset\bnetflix.valid.data with CLT Random Forest k=20, r=0.05
+-60.28971574784981
+
+Computing log-likelihood for Validation dataset ./dataset\bnetflix.valid.data with CLT Random Forest k=20, r=0.1
+-60.3126513181666
+
+Computing log-likelihood for Validation dataset ./dataset\bnetflix.valid.data with CLT Random Forest k=20, r=0.2
+-60.31783975383134
+
+Computing log-likelihood for Validation dataset ./dataset\bnetflix.valid.data with CLT Random Forest k=20, r=0.3
+-60.36945439249191
+
+Computing log-likelihood for Validation dataset ./dataset\bnetflix.valid.data with CLT Random Forest k=50, r=0.05
+-60.29027162407505
+
+Computing log-likelihood for Validation dataset ./dataset\bnetflix.valid.data with CLT Random Forest k=50, r=0.1
+-60.2964509244849
+
+Computing log-likelihood for Validation dataset ./dataset\bnetflix.valid.data with CLT Random Forest k=50, r=0.2
+-60.319091990030905
+
+Computing log-likelihood for Validation dataset ./dataset\bnetflix.valid.data with CLT Random Forest k=50, r=0.3
+-60.35744990228258
+
+Computing log-likelihood for Validation dataset ./dataset\bnetflix.valid.data with CLT Random Forest k=100, r=0.05
+-60.291862697221895
+
+Computing log-likelihood for Validation dataset ./dataset\bnetflix.valid.data with CLT Random Forest k=100, r=0.1
+-60.303038503426066
+
+Computing log-likelihood for Validation dataset ./dataset\bnetflix.valid.data with CLT Random Forest k=100, r=0.2
+-60.31987859845821
+
+Computing log-likelihood for Validation dataset ./dataset\bnetflix.valid.data with CLT Random Forest k=100, r=0.3
+-60.35802694407624
+
+Best log-likelihood across Validation datasets is -60.28971574784981
+
+Computing log-likelihood for Test dataset ./dataset\bnetflix.test.data with Random Forest k=20, r=0.05
+-60.28918154418535
+---------------------------------------------------
+
+Learning ./dataset\jester.ts.data dataset using CLT Random Forest
+
+Computing log-likelihood for Validation dataset ./dataset\jester.valid.data with CLT Random Forest k=20, r=0.05
+-58.39266511940447
+
+Computing log-likelihood for Validation dataset ./dataset\jester.valid.data with CLT Random Forest k=20, r=0.1
+-58.402475165845814
+
+Computing log-likelihood for Validation dataset ./dataset\jester.valid.data with CLT Random Forest k=20, r=0.2
+-58.42224007991548
+
+Computing log-likelihood for Validation dataset ./dataset\jester.valid.data with CLT Random Forest k=20, r=0.3
+-58.443688486455336
+
+Computing log-likelihood for Validation dataset ./dataset\jester.valid.data with CLT Random Forest k=50, r=0.05
+-58.397639432686354
+
+Computing log-likelihood for Validation dataset ./dataset\jester.valid.data with CLT Random Forest k=50, r=0.1
+-58.38845932032017
+
+Computing log-likelihood for Validation dataset ./dataset\jester.valid.data with CLT Random Forest k=50, r=0.2
+-58.41157803331181
+
+Computing log-likelihood for Validation dataset ./dataset\jester.valid.data with CLT Random Forest k=50, r=0.3
+-58.43139988786289
+
+Computing log-likelihood for Validation dataset ./dataset\jester.valid.data with CLT Random Forest k=100, r=0.05
+-58.402600275512135
+
+Computing log-likelihood for Validation dataset ./dataset\jester.valid.data with CLT Random Forest k=100, r=0.1
+-58.401079818416875
+
+Computing log-likelihood for Validation dataset ./dataset\jester.valid.data with CLT Random Forest k=100, r=0.2
+-58.41957264270623
+
+Computing log-likelihood for Validation dataset ./dataset\jester.valid.data with CLT Random Forest k=100, r=0.3
+-58.45110620688816
+
+Best log-likelihood across Validation datasets is -58.38845932032017
+
+Computing log-likelihood for Test dataset ./dataset\jester.test.data with Random Forest k=50, r=0.1
+-58.2615260925389
+---------------------------------------------------
+
+Learning ./dataset\kdd.ts.data dataset using CLT Random Forest
+
+Computing log-likelihood for Validation dataset ./dataset\kdd.valid.data with CLT Random Forest k=20, r=0.05
+-2.526373134532619
+
+Computing log-likelihood for Validation dataset ./dataset\kdd.valid.data with CLT Random Forest k=20, r=0.1
+-2.5264988916833286
+
+Computing log-likelihood for Validation dataset ./dataset\kdd.valid.data with CLT Random Forest k=20, r=0.2
+-2.5299476853049785
+
+Computing log-likelihood for Validation dataset ./dataset\kdd.valid.data with CLT Random Forest k=20, r=0.3
+-2.5295071258290767
+
+Computing log-likelihood for Validation dataset ./dataset\kdd.valid.data with CLT Random Forest k=50, r=0.05
+-2.5271532454083756
+
+Computing log-likelihood for Validation dataset ./dataset\kdd.valid.data with CLT Random Forest k=50, r=0.1
+-2.5269640639192534
+
+Computing log-likelihood for Validation dataset ./dataset\kdd.valid.data with CLT Random Forest k=50, r=0.2
+-2.5275808668312143
+
+Computing log-likelihood for Validation dataset ./dataset\kdd.valid.data with CLT Random Forest k=50, r=0.3
+-2.529116194158336
+
+Computing log-likelihood for Validation dataset ./dataset\kdd.valid.data with CLT Random Forest k=100, r=0.05
+-2.527070474640508
+
+Computing log-likelihood for Validation dataset ./dataset\kdd.valid.data with CLT Random Forest k=100, r=0.1
+-2.526900983164874
+
+Computing log-likelihood for Validation dataset ./dataset\kdd.valid.data with CLT Random Forest k=100, r=0.2
+-2.527875913772017
+
+Computing log-likelihood for Validation dataset ./dataset\kdd.valid.data with CLT Random Forest k=100, r=0.3
+-2.529582416813326
+
+Best log-likelihood across Validation datasets is -2.526373134532619
+
+Computing log-likelihood for Test dataset ./dataset\kdd.test.data with Random Forest k=20, r=0.05
+-2.29286222668179
+---------------------------------------------------
+
+Learning ./dataset\msnbc.ts.data dataset using CLT Random Forest
+
+Computing log-likelihood for Validation dataset ./dataset\msnbc.valid.data with CLT Random Forest k=20, r=0.05
+-6.540154103275201
+
+Computing log-likelihood for Validation dataset ./dataset\msnbc.valid.data with CLT Random Forest k=20, r=0.1
+-6.54101091670212
+
+Computing log-likelihood for Validation dataset ./dataset\msnbc.valid.data with CLT Random Forest k=20, r=0.2
+-6.544824318463001
+
+Computing log-likelihood for Validation dataset ./dataset\msnbc.valid.data with CLT Random Forest k=20, r=0.3
+-6.54680531798123
+
+Computing log-likelihood for Validation dataset ./dataset\msnbc.valid.data with CLT Random Forest k=50, r=0.05
+-6.540251865112947
+
+Computing log-likelihood for Validation dataset ./dataset\msnbc.valid.data with CLT Random Forest k=50, r=0.1
+-6.540898725006599
+
+Computing log-likelihood for Validation dataset ./dataset\msnbc.valid.data with CLT Random Forest k=50, r=0.2
+-6.545496739936624
+
+Computing log-likelihood for Validation dataset ./dataset\msnbc.valid.data with CLT Random Forest k=50, r=0.3
+-6.548807034888534
+
+Computing log-likelihood for Validation dataset ./dataset\msnbc.valid.data with CLT Random Forest k=100, r=0.05
+-6.540170916547411
+
+Computing log-likelihood for Validation dataset ./dataset\msnbc.valid.data with CLT Random Forest k=100, r=0.1
+-6.542511322738999
+
+Computing log-likelihood for Validation dataset ./dataset\msnbc.valid.data with CLT Random Forest k=100, r=0.2
+-6.543699250819673
+
+Computing log-likelihood for Validation dataset ./dataset\msnbc.valid.data with CLT Random Forest k=100, r=0.3
+-6.5509557287082645
+
+Best log-likelihood across Validation datasets is -6.540154103275201
+
+Computing log-likelihood for Test dataset ./dataset\msnbc.test.data with Random Forest k=20, r=0.05
+-6.558479052759627
+---------------------------------------------------
+
+Learning ./dataset\nltcs.ts.data dataset using CLT Random Forest
+
+Computing log-likelihood for Validation dataset ./dataset\nltcs.valid.data with CLT Random Forest k=20, r=0.05
+-6.728938058054011
+
+Computing log-likelihood for Validation dataset ./dataset\nltcs.valid.data with CLT Random Forest k=20, r=0.1
+-6.738156912207422
+
+Computing log-likelihood for Validation dataset ./dataset\nltcs.valid.data with CLT Random Forest k=20, r=0.2
+-6.7610830141497384
+
+Computing log-likelihood for Validation dataset ./dataset\nltcs.valid.data with CLT Random Forest k=20, r=0.3
+-6.751114444880048
+
+Computing log-likelihood for Validation dataset ./dataset\nltcs.valid.data with CLT Random Forest k=50, r=0.05
+-6.7290690617409545
+
+Computing log-likelihood for Validation dataset ./dataset\nltcs.valid.data with CLT Random Forest k=50, r=0.1
+-6.734022653523513
+
+Computing log-likelihood for Validation dataset ./dataset\nltcs.valid.data with CLT Random Forest k=50, r=0.2
+-6.746712315756874
+
+Computing log-likelihood for Validation dataset ./dataset\nltcs.valid.data with CLT Random Forest k=50, r=0.3
+-6.753129593748069
+
+Computing log-likelihood for Validation dataset ./dataset\nltcs.valid.data with CLT Random Forest k=100, r=0.05
+-6.729603708416251
+
+Computing log-likelihood for Validation dataset ./dataset\nltcs.valid.data with CLT Random Forest k=100, r=0.1
+-6.7338958816978725
+
+Computing log-likelihood for Validation dataset ./dataset\nltcs.valid.data with CLT Random Forest k=100, r=0.2
+-6.741417915578651
+
+Computing log-likelihood for Validation dataset ./dataset\nltcs.valid.data with CLT Random Forest k=100, r=0.3
+-6.770493361733238
+
+Best log-likelihood across Validation datasets is -6.728938058054011
+
+Computing log-likelihood for Test dataset ./dataset\nltcs.test.data with Random Forest k=20, r=0.05
+-6.751423377894265
+---------------------------------------------------
+
+Learning ./dataset\plants.ts.data dataset using CLT Random Forest
+
+Computing log-likelihood for Validation dataset ./dataset\plants.valid.data with CLT Random Forest k=20, r=0.05
+-16.53843067095304
+
+Computing log-likelihood for Validation dataset ./dataset\plants.valid.data with CLT Random Forest k=20, r=0.1
+-16.54677290746452
+
+Computing log-likelihood for Validation dataset ./dataset\plants.valid.data with CLT Random Forest k=20, r=0.2
+-16.594989658642028
+
+Computing log-likelihood for Validation dataset ./dataset\plants.valid.data with CLT Random Forest k=20, r=0.3
+-16.662849560216316
+
+Computing log-likelihood for Validation dataset ./dataset\plants.valid.data with CLT Random Forest k=50, r=0.05
+-16.548529757354927
+
+Computing log-likelihood for Validation dataset ./dataset\plants.valid.data with CLT Random Forest k=50, r=0.1
+-16.55974822708628
+
+Computing log-likelihood for Validation dataset ./dataset\plants.valid.data with CLT Random Forest k=50, r=0.2
+-16.598450555388936
+
+Computing log-likelihood for Validation dataset ./dataset\plants.valid.data with CLT Random Forest k=50, r=0.3
+-16.68984281737717
+
+Computing log-likelihood for Validation dataset ./dataset\plants.valid.data with CLT Random Forest k=100, r=0.05
+-16.539205694402153
+
+Computing log-likelihood for Validation dataset ./dataset\plants.valid.data with CLT Random Forest k=100, r=0.1
+-16.553954883189824
+
+Computing log-likelihood for Validation dataset ./dataset\plants.valid.data with CLT Random Forest k=100, r=0.2
+-16.60422649556836
+
+Computing log-likelihood for Validation dataset ./dataset\plants.valid.data with CLT Random Forest k=100, r=0.3
+-16.653865693321432
+
+Best log-likelihood across Validation datasets is -16.53843067095304
+
+Computing log-likelihood for Test dataset ./dataset\plants.test.data with Random Forest k=20, r=0.05
+-16.533365496910885
+---------------------------------------------------
+
+Learning ./dataset\pumsb_star.ts.data dataset using CLT Random Forest
+
+Computing log-likelihood for Validation dataset ./dataset\pumsb_star.valid.data with CLT Random Forest k=20, r=0.05
+-30.952241283450714
+
+Computing log-likelihood for Validation dataset ./dataset\pumsb_star.valid.data with CLT Random Forest k=20, r=0.1
+-30.993215124884298
+
+Computing log-likelihood for Validation dataset ./dataset\pumsb_star.valid.data with CLT Random Forest k=20, r=0.2
+-31.084719674349515
+
+Computing log-likelihood for Validation dataset ./dataset\pumsb_star.valid.data with CLT Random Forest k=20, r=0.3
+-31.39220310675058
+
+Computing log-likelihood for Validation dataset ./dataset\pumsb_star.valid.data with CLT Random Forest k=50, r=0.05
+-30.955336684976487
+
+Computing log-likelihood for Validation dataset ./dataset\pumsb_star.valid.data with CLT Random Forest k=50, r=0.1
+-31.017854818328782
+
+Computing log-likelihood for Validation dataset ./dataset\pumsb_star.valid.data with CLT Random Forest k=50, r=0.2
+-31.09335247975306
+
+Computing log-likelihood for Validation dataset ./dataset\pumsb_star.valid.data with CLT Random Forest k=50, r=0.3
+-31.321689333382736
+
+Computing log-likelihood for Validation dataset ./dataset\pumsb_star.valid.data with CLT Random Forest k=100, r=0.05
+-30.9575068368045
+
+Computing log-likelihood for Validation dataset ./dataset\pumsb_star.valid.data with CLT Random Forest k=100, r=0.1
+-30.974367160164604
+
+Computing log-likelihood for Validation dataset ./dataset\pumsb_star.valid.data with CLT Random Forest k=100, r=0.2
+-31.134169634180843
+
+Computing log-likelihood for Validation dataset ./dataset\pumsb_star.valid.data with CLT Random Forest k=100, r=0.3
+-31.30491439505746
+
+Best log-likelihood across Validation datasets is -30.952241283450714
+
+Computing log-likelihood for Test dataset ./dataset\pumsb_star.test.data with Random Forest k=20, r=0.05
+-30.804751737499056
+---------------------------------------------------
+
+Learning ./dataset\tretail.ts.data dataset using CLT Random Forest
+
+Computing log-likelihood for Validation dataset ./dataset\tretail.valid.data with CLT Random Forest k=20, r=0.05
+-10.9685230660997
+
+Computing log-likelihood for Validation dataset ./dataset\tretail.valid.data with CLT Random Forest k=20, r=0.1
+-10.968438809741478
+
+Computing log-likelihood for Validation dataset ./dataset\tretail.valid.data with CLT Random Forest k=20, r=0.2
+-10.988191095791068
+
+Computing log-likelihood for Validation dataset ./dataset\tretail.valid.data with CLT Random Forest k=20, r=0.3
+-10.992632595212308
+
+Computing log-likelihood for Validation dataset ./dataset\tretail.valid.data with CLT Random Forest k=50, r=0.05
+-10.968964949133783
+
+Computing log-likelihood for Validation dataset ./dataset\tretail.valid.data with CLT Random Forest k=50, r=0.1
+-10.970304918909635
+
+Computing log-likelihood for Validation dataset ./dataset\tretail.valid.data with CLT Random Forest k=50, r=0.2
+-10.98260061116142
+
+Computing log-likelihood for Validation dataset ./dataset\tretail.valid.data with CLT Random Forest k=50, r=0.3
+-10.994121345693737
+
+Computing log-likelihood for Validation dataset ./dataset\tretail.valid.data with CLT Random Forest k=100, r=0.05
+-10.968613239446684
+
+Computing log-likelihood for Validation dataset ./dataset\tretail.valid.data with CLT Random Forest k=100, r=0.1
+-10.971281478879927
+
+Computing log-likelihood for Validation dataset ./dataset\tretail.valid.data with CLT Random Forest k=100, r=0.2
+-10.978481948075677
+
+Computing log-likelihood for Validation dataset ./dataset\tretail.valid.data with CLT Random Forest k=100, r=0.3
+-10.991825575585189
+
+Best log-likelihood across Validation datasets is -10.968438809741478
+
+Computing log-likelihood for Test dataset ./dataset\tretail.test.data with Random Forest k=20, r=0.1
+-10.946686479286513
+---------------------------------------------------
+

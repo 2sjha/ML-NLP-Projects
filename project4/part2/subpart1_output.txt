@@ -1,0 +1,40 @@
+Learning ./dataset\accidents.ts.data dataset.
+Computing log-likelihood for ./dataset\accidents.test.data dataset.
+-33.18811042986219
+
+Learning ./dataset\baudio.ts.data dataset.
+Computing log-likelihood for ./dataset\baudio.test.data dataset.
+-44.374902217296565
+
+Learning ./dataset\bnetflix.ts.data dataset.
+Computing log-likelihood for ./dataset\bnetflix.test.data dataset.
+-60.25034595063277
+
+Learning ./dataset\jester.ts.data dataset.
+Computing log-likelihood for ./dataset\jester.test.data dataset.
+-58.22653193833437
+
+Learning ./dataset\kdd.ts.data dataset.
+Computing log-likelihood for ./dataset\kdd.test.data dataset.
+-2.294894071447108
+
+Learning ./dataset\msnbc.ts.data dataset.
+Computing log-likelihood for ./dataset\msnbc.test.data dataset.
+-6.540127355063576
+
+Learning ./dataset\nltcs.ts.data dataset.
+Computing log-likelihood for ./dataset\nltcs.test.data dataset.
+-6.759044665013505
+
+Learning ./dataset\plants.ts.data dataset.
+Computing log-likelihood for ./dataset\plants.test.data dataset.
+-16.524015044243548
+
+Learning ./dataset\pumsb_star.ts.data dataset.
+Computing log-likelihood for ./dataset\pumsb_star.test.data dataset.
+-30.80704843957857
+
+Learning ./dataset\tretail.ts.data dataset.
+Computing log-likelihood for ./dataset\tretail.test.data dataset.
+-10.946544781894685
+

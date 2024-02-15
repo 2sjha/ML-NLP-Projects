@@ -1,0 +1,117 @@
+D:\Fall23\CS6375-projects\project2\env\Lib\site-packages\sklearn\datasets\_openml.py:1022: FutureWarning: The default value of `parser` will change from `'liac-arff'` to `'auto'` in 1.4. You can set `parser='auto'` to silence this warning. Therefore, an `ImportError` will be raised from 1.4 if the dataset is dense and pandas is not installed. Note that the pandas parser may return different data types. See the Notes Section in fetch_openml's API doc for details.
+  warn(
+Running Decision Tree Classifier on MNIST Dataset
+*************************************************
+
+Tuning default accuracy: 0.86375
+Tuning best accuracy: 0.87645
+
+Best Decision Tree Classifier Parameters:
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 5
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+random_state: 0
+splitter: best
+
+Test accuracy: 0.8875
+---------------------------------------------
+Running Bagging Classifier on MNIST Dataset
+*************************************************
+
+Tuning default accuracy: 0.93575
+Tuning best accuracy: 0.94955
+
+
+Best Baggging Classifier Parameters:
+base_estimator: deprecated
+bootstrap: True
+bootstrap_features: False
+estimator__ccp_alpha: 0.0
+estimator__class_weight: None
+estimator__criterion: gini
+estimator__max_depth: None
+estimator__max_features: None
+estimator__max_leaf_nodes: None
+estimator__min_impurity_decrease: 0.0
+estimator__min_samples_leaf: 1
+estimator__min_samples_split: 2
+estimator__min_weight_fraction_leaf: 0.0
+estimator__random_state: 0
+estimator__splitter: best
+estimator: DecisionTreeClassifier(random_state=0)
+max_features: 1.0
+max_samples: 1.0
+n_estimators: 30
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9554
+---------------------------------------------
+Running Random Forest Classifier on MNIST Dataset
+*************************************************
+
+Tuning default accuracy: 0.96475
+Tuning best accuracy: 0.9655
+
+Best Random Forest Classifier Parameters:
+bootstrap: True
+ccp_alpha: 0.0
+class_weight: None
+criterion: entropy
+max_depth: None
+max_features: sqrt
+max_leaf_nodes: None
+max_samples: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 1
+min_samples_split: 2
+min_weight_fraction_leaf: 0.0
+n_estimators: 100
+n_jobs: -1
+oob_score: False
+random_state: 0
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9692
+---------------------------------------------
+Running Gradient Boost Classifier on MNIST Dataset
+*************************************************
+
+Tuning default accuracy: 0.9467
+Tuning best accuracy: 0.96045
+
+Best Gradient Boosting Classifier Parameters:
+ccp_alpha: 0.0
+criterion: squared_error
+init: None
+learning_rate: 0.1
+loss: log_loss
+max_depth: 3
+max_features: None
+max_leaf_nodes: None
+min_impurity_decrease: 0.0
+min_samples_leaf: 10
+min_samples_split: 10
+min_weight_fraction_leaf: 0.0
+n_estimators: 200
+n_iter_no_change: None
+random_state: 0
+subsample: 1.0
+tol: 0.0001
+validation_fraction: 0.1
+verbose: 0
+warm_start: False
+
+Test accuracy: 0.9619
+---------------------------------------------
