@@ -4,7 +4,7 @@
 
 ### Description
 
-This part uses **K-means clustering** for image compression. The input images are [Koala.jpg](./part1/Koala.jpg) and [Penguins.jpg](./part1/Penguins.jpg) and the compressed output images are [here](./part1/tests/) with varynig values of **k** and **p**(order of Minkowski distance used to calculate the distance between 2 pixels).
+This part uses **K-means clustering** for image compression. The input images are [Koala.jpg](./part1/Koala.jpg) and [Penguins.jpg](./part1/Penguins.jpg) and the compressed output images are [here](./part1/tests/) with varying values of **k** and **p**(order of Minkowski distance used to calculate the distance between 2 pixels).
 
 ## Compile and Run
 
