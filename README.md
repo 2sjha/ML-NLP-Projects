@@ -1,15 +1,27 @@
-# ML-Projects
+# ML-NLP-Projects
 
-Series of Machine Learning projects for UTD's CS6375 course. The projects implement various ML agorithms, prominent ones include Naive Bayes, Hyper-parameter tuning for Tree based classifiers, Collaborative Filtering, K-means clustering and Random Forest. More info about the projects is below.
+Series of Machine Learning and NLP projects for UTD's CS6375 and CS6370 courses. The projects implement various ML agorithms, prominent ones include Naive Bayes, Hyper-parameter tuning for Tree based classifiers, Collaborative Filtering, K-means clustering and Random Forest. More info about the projects is below.
 
-## [Project 1](./project1/README.md)
+## Traditional ML
 
-## [Project 2](./project2/README.md)
+### [Project 1](./traditional-ml/project1/README.md)
 
-## [Project 3](./project3/README.md)
+### [Project 2](./traditional-ml/project2/README.md)
 
-## [Project 4](./project4/README.md)
+### [Project 3](./traditional-ml/project3/README.md)
 
+### [Project 4](./traditional-ml/project4/README.md)
+
+
+## NLP
+
+### [Project 1](./traditional-ml/project1/README.md)
+
+### [Project 2](./traditional-ml/project2/README.md)
+
+### [Project 3](./traditional-ml/project3/README.md)
+
+### [Project 4](./traditional-ml/project4/README.md)
 
 ## Note for UT Dallas students
 

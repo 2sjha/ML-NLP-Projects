@@ -1,0 +1,30 @@
+# HW1
+hw1/*.txt
+
+# HW2
+*.pickle
+hw2/*.txt
+
+# HW3
+hw3/*.xlsx
+
+# HW4
+hw4/*.csv
+
+# Description PDFs
+*.pdf
+
+# Project 1
+um_*
+/project1-peer-reviews/
+
+# Project 2
+um_*
+*.keras
+knowledge_base.pkl
+knowledge_base.txt
+project2/cleaned_files
+
+# Python
+/*/env/
+/*/__pycache__/
